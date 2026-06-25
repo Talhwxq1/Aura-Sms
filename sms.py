@@ -1,4 +1,3 @@
-  GNU nano 9.1                                                             sms.py
 import requests
 from random import choice, randint
 from string import ascii_lowercase
