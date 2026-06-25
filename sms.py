@@ -1,4 +1,4 @@
-import requeimport requests
+import requests
 from random import choice, randint
 from string import ascii_lowercase
 from colorama import Fore, Style
